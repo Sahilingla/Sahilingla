@@ -50,9 +50,9 @@
 ---
 
 ## 🚀 Projects
-- 🔹 **Room Sync** – Full Stack Roommate Finder (React + Spring Boot + PostgreSQL)  
-- 🔹 **Job Hunt** – Skill-based Job Portal with secure authentication  
-- 🔹 **AI Calling Agent** – Automated AI voice calling system  
+- 🔹 **HELP-RX** – Full Stack Medicine Access Platform (Node.js, Express, MongoDB, React.js)
+- 🔹 **Flex Kicks** – E-commerce Footwear Platform (React.js, Tailwind CSS) 
+- 🔹 **Railway Reservation System** –Backend Reservation Management System (Java, Spring Boot,OOP)
 
 ---
 
